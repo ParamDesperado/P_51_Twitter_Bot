@@ -86,9 +86,9 @@ Add it to your `.gitignore` file:
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-📧 [your.email@example.com]  
-🐙 [GitHub](https://github.com/yourusername)
+**Param Sangani**  
+📧 [param16032006@gmail.com]  
+🐙 [GitHub](https://github.com/ParamDesperado)
 
 ---
 
